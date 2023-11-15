@@ -4,7 +4,10 @@
   "description": "ejercicio para aprender DOM en js y realizacion de test",
   "main": "app.js",
   "scripts": {
-    "test": "npm t"
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "vitest"
   },
   "author": "",
   "license": "ISC",
